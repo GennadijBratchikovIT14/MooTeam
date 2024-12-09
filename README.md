@@ -43,10 +43,10 @@
 
 # Инструкции по запуску в linux:
 В терминале выполните команды:
-git clone https://github.com/GennadijBratchikovIT14/MooTeam
-cd MooTeam
-chmod +x Bulls_and_Cows 
-./Bulls_and_Cows
+1) git clone https://github.com/GennadijBratchikovIT14/MooTeam
+2) cd MooTeam
+3) chmod +x Bulls_and_Cows 
+4) ./Bulls_and_Cows
 
 # Инструкция по запуску на Windows:
 1) Вам нужен установленный Visual Studio Code, в настройках включите опцию "Git: enabled".
@@ -59,6 +59,6 @@ chmod +x Bulls_and_Cows
 8) Теперь выберите файл main.cpp и нажмите клавишу "Compile and run" чтобы поиграть.
 
 # Роли участников:
-Братчиков Геннадий - ответственный за реализацию на языке C++
-Никонов Ростислав - ответственный README.md
-Климов Сергей - ответственный за GUI и загрузку в Git репозиторий
+- Братчиков Геннадий - ответственный за реализацию на языке C++
+- Никонов Ростислав - ответственный README.md
+- Климов Сергей - ответственный за GUI и загрузку в Git репозиторий
