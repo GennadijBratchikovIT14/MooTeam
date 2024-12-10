@@ -1,5 +1,5 @@
-#ifndef BULLS_AND_COWS_H
-#define BULLS_AND_COWS_H
+#ifndef HEADER_H
+#define HEADER_H
 
 #include <string>
 
@@ -7,4 +7,4 @@ string generateSecretNumber();
 int countBullsAndCows(const string& secret, const string& guess);
 bool isDigits(const string& str);
 
-#endif // BULLS_AND_COWS_H
+#endif // HEADER_H
