@@ -1,9 +1,8 @@
-#include "header.h"
 #include <iostream>
 #include <string>
 #include <ctime>
 #include <iomanip>
-
+#include "header.h"
 
 string generateSecretNumber() {
     string secret = "";
