@@ -2,7 +2,7 @@
 #include <string>
 #include <ctime>
 #include <iomanip>
-#include "Header.h"
+#include "header.h"
 using namespace std;
 
 int countBullsAndCows(const string& secret, const string& guess) {
