@@ -6,6 +6,8 @@
 #include <ctime>
 #include <iomanip>
 
+using namespace std;
+
 string generateSecretNumber();
 int countBullsAndCows(const string& secret, const string& guess);
 bool isDigits(const string& str);
