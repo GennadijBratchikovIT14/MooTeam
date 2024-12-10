@@ -58,7 +58,7 @@
 
 Загаданное компьютером число - 1234
 
-# Инструкции по запуску в linux:
+# Инструкции по запуску в Linux:
 В терминале выполните команды:
 1) git clone https://github.com/GennadijBratchikovIT14/MooTeam
 2) cd MooTeam
