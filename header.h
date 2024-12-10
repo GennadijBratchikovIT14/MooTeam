@@ -5,7 +5,6 @@
 #include <string>
 #include <ctime>
 #include <iomanip>
-#include "header.h"
 
 string generateSecretNumber();
 int countBullsAndCows(const string& secret, const string& guess);
